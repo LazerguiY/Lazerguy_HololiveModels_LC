@@ -8,9 +8,9 @@ A few models I added as per some friends requested. I cannot guarantee quality i
 ## Changelog
 - v0.1.0
 	- Adds the following models:
-	Tokino Sora
-	Irys (Two variations)
-	Yozora Mel
+	+ Tokino Sora
+	+ Irys (Two variations)
+	+ Yozora Mel
 
 - v0.2.0 
 	-Potentially fixed mod not working
